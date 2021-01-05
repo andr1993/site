@@ -54,3 +54,24 @@
 .font-gotham{
     font-family: Gotham-Medium;
 }
+body{
+    background-image: url(../images/background.png);
+    background-repeat: no-repeat;
+
+}
+.menu{
+    background-color: #ffffff;
+    width: 900px;
+    height: 150px;
+    margin-top: 50px;
+
+}
+
+.high-menu{
+    border-bottom: 1px solid #f1f1f1;
+    box-sizing: border-box;
+
+}
+.logo{
+   border-right: 1px solid #f1f1f1; 
+}
